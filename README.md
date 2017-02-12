@@ -38,4 +38,6 @@ To quickly see the difference GrayMod brings in game i suggest to do the followi
 5. Press ESC, run GrayMod, and reload GMBiggerMap.
 6. Do steps 2 and 3, and notice that both oil trains started moving, but they are heading to **different train stops**.
 
+You should see something similar to this: https://www.youtube.com/watch?v=o4WHyuiad_M
+
 Thanks.
