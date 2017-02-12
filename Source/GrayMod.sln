@@ -4,16 +4,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GrayMod", "GrayMod\GrayMod.vcxproj", "{8EAFD66E-6EC4-4E1D-BFB2-DE83C2E1BCCF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B94F2A0C-B588-43C9-9B73-4EB9B03402FA} = {B94F2A0C-B588-43C9-9B73-4EB9B03402FA}
+		{3D28625C-C0D2-493D-A6A4-B4D55AC9754B} = {3D28625C-C0D2-493D-A6A4-B4D55AC9754B}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllInjector", "DllInjector\DllInjector.vcxproj", "{B94F2A0C-B588-43C9-9B73-4EB9B03402FA}"
-	ProjectSection(ProjectDependencies) = postProject
-		{8EAFD66E-6EC4-4E1D-BFB2-DE83C2E1BCCF} = {8EAFD66E-6EC4-4E1D-BFB2-DE83C2E1BCCF}
-	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DllLoader", "DllLoader\DllLoader.vcxproj", "{3D28625C-C0D2-493D-A6A4-B4D55AC9754B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B94F2A0C-B588-43C9-9B73-4EB9B03402FA} = {B94F2A0C-B588-43C9-9B73-4EB9B03402FA}
-		{8EAFD66E-6EC4-4E1D-BFB2-DE83C2E1BCCF} = {8EAFD66E-6EC4-4E1D-BFB2-DE83C2E1BCCF}
 	EndProjectSection
 EndProject
 Global
