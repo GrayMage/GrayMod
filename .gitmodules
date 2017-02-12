@@ -1,0 +1,3 @@
+[submodule "Source/Libs/MinHookEx"]
+	path = Source/Libs/MinHookEx
+	url = https://github.com/GrayMage/MinHookEx.git
