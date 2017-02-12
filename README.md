@@ -25,7 +25,7 @@ You can eject the DLL at any time by typing 'x' character in console window, but
 Since GrayMod changes game state, it can't be used in multiplayer games (although I might be fixing it later).
 
 #Testing suggestions
-There are two test maps included (see TestMaps folder):
+There are two test maps included (see Saves folder):
 - GMSmallMap - the map shown in this video: https://www.youtube.com/watch?v=eM_sAFMYXmc It should be easy to experiment with GrayMod there;
 - GMBiggerMap - the map I've been playing on for a while, which inspired me to create this project. All oil, iron and copper outposts sending 1 Locomotive signal to their train stops, so they will accept only one train. Coal outpost uses combinator logic to calculate the number of trains accepted. You'll need Fusion Power mod by bkrauscs. It can be found in provided Mods folder (**I've changed factorio version to 0.14** because it seems Fusion Power mod is not supported anymore, latest version available here https://mods.factorio.com/mods/bkrauscs/FusionPower and it's for 0.13).
 
