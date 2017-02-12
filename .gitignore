@@ -1,7 +1,6 @@
 *.suo
 *.db
 *.ipch
-*.user
 *.idb
 *.obj
 *.log
